@@ -1,4 +1,4 @@
-# UE20CS351_Project5_Blogging_WebApp
+# BLOG APP USING FLASK AND MONGODB
 In this project, we work with  Docker and Kubernetes to make an easily deployable and portable blogging web-app using Flask and MongoDB.
 
 ## STEPS TO FOLLOW

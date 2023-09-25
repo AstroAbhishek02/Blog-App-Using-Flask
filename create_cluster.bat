@@ -1,8 +1,5 @@
 @ECHO OFF
-ECHO ===========================Sharath Krishna A H - PES1UG20CS391===========================
-ECHO ===========================Shivani G Itagi - PES1UG20CS398===========================
-ECHO ===========================Shreyas Hiremath - PES1UG20CS406===========================
-ECHO ===========================Shrinidhi K J - PES1UG20CS412===========================
+
 
 @ECHO OFF
 ECHO -------------------------Building Docker Image------------------------
